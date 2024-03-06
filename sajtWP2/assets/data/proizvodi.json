@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "markaId": 1,
+      "model": "Model 1",
+      "boja": "Crna",
+      "ekran": "5.5 inča",
+      "ramId": 2,
+      "memorija": "64GB",
+      "kamera": "13MP",
+      "sistem": "Android",
+      "procesor": "Quad-core",
+      "specifikacije": [
+        {"ime": "Bluetooth", "vrednost": 1},
+        {"ime": "WiFi", "vrednost": 1}
+      ],
+      "ocenaid": 4,
+      "slike": {"slika1": "../data/assets/A53.png"},
+      "new": true,
+      "popustId": 1,
+      "cena": {"nova": 399.99, "stara": 499.99}
+    },
+    {
+        "id": 2,
+        "markaId": 1,
+        "model": "Model 1",
+        "boja": "Bela",
+        "ekran": "5.6 inča",
+        "ramId": 2,
+        "memorija": "64GB",
+        "kamera": "13MP",
+        "sistem": "Android",
+        "procesor": "Quad-core",
+        "specifikacije": [
+          {"ime": "Bluetooth", "vrednost": 1},
+          {"ime": "WiFi", "vrednost": 1}
+        ],
+        "ocenaid": 4,
+        "slike": {"slika1": "../data/assets/A34.png"},
+        "new": true,
+        "popustId": 1,
+        "cena": {"nova": 399.99, "stara": 499.99}
+      }
+  ]

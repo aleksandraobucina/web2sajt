@@ -1,0 +1,18 @@
+[
+    {
+        "href": "index.html",
+        "text": "Početna"
+    },
+    {
+        "href": "prodavnica.html",
+        "text": "Prodavnica"
+    },
+    {
+        "href": "proizvodi.html",
+        "text": "O nama"
+    },
+    {
+        "href": "kontakt.html",
+        "text": "Kontakt"
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "naziv": "Mobilni telefoni"
+    },
+    {
+        "id": 2,
+        "naziv": "Pametni satovi"
+    },
+    {
+        "id": 3,
+        "naziv": "Oprema"
+    }
+]
