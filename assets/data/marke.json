@@ -1,0 +1,22 @@
+[
+    {
+        "MarkaId": 1,
+        "naziv": "Samsung"
+    },
+    {
+        "MarkaId": 2,
+        "naziv": "Huawei"
+    },
+    {
+        "MarkaId": 3,
+        "naziv": "Shaomi"
+    },
+    {
+        "MarkaId": 4,
+        "naziv": "Alcatel"
+    },
+    {
+        "MarkaId": 5,
+        "naziv": "Nokia"
+    }
+]
